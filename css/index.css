@@ -1,0 +1,30 @@
+body img {
+	padding: 25px;
+}
+h1 {
+	padding: 0px 600px 0px;
+}
+header{
+	margin: 0;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: red;
+	text-align: center;
+}
+introduction {
+	text-align: center;
+}
+header img {
+	width: 300px;
+	border-radius: 170px
+}
+requirements img{
+	width:500px;
+	padding-left: 450px;
+}
+requirements h2 {
+	text-align: center;
+}
+requirements li{
+	text-align: center;
+}
